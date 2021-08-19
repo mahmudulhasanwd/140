@@ -136,12 +136,8 @@ Medium Screen - Others
     .servizi-banner-top h2 {
         font-size: 40px;
     }
-    .servizi-banner-bottom-left.enti-bannar-one p {
-        margin: 26px 0px;
-    }
-    .servizi-banner-bottom-left.enti-bannar-three p {
-        margin: 26px 0px;
-    }
+
+
     .servizi-banner-bottom-right.enti-bannar-four p br{
         display: none;
     }
@@ -179,6 +175,26 @@ Medium Screen - Others
         font-size: 30px;
     }
     /* ervizi aziende page end */
+
+    .td-data p , .td-sec-data ul li {
+        font-size: 18px;
+    }
+
+    .td-data h2 , .td-sec-data h2  {
+        font-size: 20px;
+    }
+
+    .td-sec-middle ul li , .td-sec-last ul li {
+        font-size: 18px;
+    }
+
+    .table-btn-middle a , .enti-table-btn-four a {
+        font-size: 18px;
+    }
+
+    .servizi-banner-bottom-left a , .enti-bannar-four a {
+        font-size: 18px
+    }
 
    
 
@@ -504,6 +520,25 @@ Medium Screen - Others
     }
     /* servizi aziende end */
 
+    .td-data p , .td-sec-data ul li {
+        font-size: 18px;
+    }
+
+    .td-data h2 , .td-sec-data h2  {
+        font-size: 20px;
+    }
+
+    .td-sec-middle ul li , .td-sec-last ul li {
+        font-size: 18px;
+    }
+
+    .table-btn-middle a , .enti-table-btn-four a {
+        font-size: 18px;
+    }
+
+    .servizi-banner-bottom-left a , .enti-bannar-four a {
+        font-size: 18px
+    }
    
 }
 
@@ -1172,7 +1207,8 @@ Small Screen - Tablate
             margin-top: -90px;
         }
         .quale-area {
-            padding: 0px 0px 50px 0px;
+            padding: 26px 0px 50px 0px;
+            overflow: hidden;
         }
         .quale-area .container{
             padding-left: 0;
@@ -1251,7 +1287,35 @@ Small Screen - Tablate
             display: none;
         }
         /* ervizi enti page end */
-
+    
+        #sm2height {       
+            height: 78.5px!important;
+        }
+    
+        #onex img {
+            top: 25px;
+            
+        }
+    
+        #sm2height-one {
+            height: 210px!important;
+        }
+    
+        #resone {
+            height: 143px!important;
+        }
+    
+        #images-tableli {
+            left: -56px !important;
+        }
+    
+        #latrebutton a {
+            left: -56px!important;
+        }
+    
+        #onex img#fmesumi {
+            left: -56px!important;
+        }
 
 }
 
@@ -1942,6 +2006,7 @@ Small Screen - Mobile
     }
     .quale-area-left {
         padding: 30px 30px 150px 30px;
+        overflow: hidden;
     }
     .quale-area-wrap h2 {
         display: none;
@@ -1950,7 +2015,8 @@ Small Screen - Mobile
         margin-top: -90px;
     }
     .quale-area {
-        padding: 0px 0px 50px 0px;
+        padding: 28px 0px 50px 0px;
+        overflow: hidden;
     }
     .quale-area .container{
         padding-left: 0;
@@ -1989,6 +2055,7 @@ Small Screen - Mobile
     }
     .smart-area {
         padding: 50px 0px 0px 0px;
+        overflow: hidden;
     }
     /* servizi aziende page end */
 
@@ -2024,6 +2091,34 @@ Small Screen - Mobile
     }
     /* ervizi enti page end */
 
+    #sm2height {       
+        height: 78.5px!important;
+    }
+
+    #onex img {
+        top: 25px;
+        
+    }
+
+    #sm2height-one {
+        height: 210px!important;
+    }
+
+    #resone {
+        height: 143px!important;
+    }
+
+    #images-tableli {
+        left: -56px !important;
+    }
+
+    #latrebutton a {
+        left: -56px!important;
+    }
+
+    #onex img#fmesumi {
+        left: -56px!important;
+    }
 
 
 }
@@ -2664,6 +2759,7 @@ Xtra Small Screen - Small Mobile
         display: block;
         background: #F7F8F9;
         padding-bottom: 50px;
+        overflow: hidden;
     }
 
     .servizi-banner-bottom {
@@ -2719,6 +2815,7 @@ Xtra Small Screen - Small Mobile
     .servizi-banner {
         background: #F7F8F9;
         padding: 50px 0px 35px 0px;
+        overflow: hidden;
     }
     .smart-area-left h2 {
         font-size: 35px;
@@ -2763,6 +2860,7 @@ Xtra Small Screen - Small Mobile
     }
     .quale-area-left {
         padding: 30px 30px 150px 30px;
+        overflow: ;
     }
     .quale-area-wrap h2 {
         display: none;
@@ -2772,6 +2870,7 @@ Xtra Small Screen - Small Mobile
     }
     .quale-area {
         padding: 0px 0px 50px 0px;
+        overflow: hidden;
     }
     .quale-area .container{
         padding-left: 0;
@@ -2810,6 +2909,7 @@ Xtra Small Screen - Small Mobile
     }
     .smart-area {
         padding: 50px 0px 0px 0px;
+        overflow: hidden;
     }
     /* servizi aziende page end */
 

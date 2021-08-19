@@ -81,6 +81,10 @@ Medium Screen - Others
         font-size: 60px;
     }
 
+    .table-btn-last a {
+        font-size: 18px;
+    }
+
     .per-approfondire-left-bottom {
         padding-right: 0px;
         padding-left: 0;
@@ -145,7 +149,7 @@ Medium Screen - Others
         font-size: 21px;
     }
     .servizi-banner-bottom-right a {
-        font-size: 21px;
+        font-size: 18px;
     }
     .smart-area-left h2 {
         font-size: 80px;
@@ -538,6 +542,14 @@ Medium Screen - Others
 
     .servizi-banner-bottom-left a , .enti-bannar-four a {
         font-size: 18px
+    }
+
+    .servizi-banner-bottom-right a {
+        font-size: 18px;
+    }
+
+    .table-btn-last a {
+        font-size: 18px;
     }
    
 }
